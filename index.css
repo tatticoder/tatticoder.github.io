@@ -48,16 +48,16 @@ figure {
   height: 100vh;
 }
 .hero:nth-child(1) figure {
-  background-image: url("w1.jpg");
+  background-image: url("https://storage.googleapis.com/web.sicarius.in/w1.jpg");
 }
 .hero:nth-child(2) figure {
-  background-image: url("w2.jpg");
+  background-image: url("https://storage.googleapis.com/web.sicarius.in/w2.jpg");
 }
 .hero:nth-child(3) figure {
-  background-image: url("w3.jpg");
+  background-image: url("https://storage.googleapis.com/web.sicarius.in/w3.jpg");
 }
 .hero:nth-child(4) figure {
-  background-image: url("w4.jpg");
+  background-image: url("https://storage.googleapis.com/web.sicarius.in/w4.jpg");
 }
 
 .hero-inner {
